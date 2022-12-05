@@ -3,12 +3,10 @@ import ContactListComponent from './components/container/contact_list';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
+    <div>
 
       <ContactListComponent />
         
-      </header>
     </div>
   );
 }
